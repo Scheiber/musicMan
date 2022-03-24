@@ -11,7 +11,7 @@ node musicman.js
 # returns a random album
 node musicman.js random
 
-# returns a album with that genre
+# returns an album with that genre
 node musicman.js pop
 ```
 
@@ -25,6 +25,6 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ---
 
-> You got trouble, folks!</br>
-> Right here in River City, trouble with a capital "T"</br>
+> You got trouble, folks,\
+> Right here in River City, trouble with a capital "T"\
 > And that rhymes with "P" and that stands for pool!
