@@ -1,6 +1,6 @@
 # musicMan
 
-musicMan is a way to discover and receive information about recommended albums. Simply enter a genre or the word "random" to recieve an album.
+musicMan is a way to discover and receive information about recommended albums. Simply enter a genre or the word "random" to receive an album name, artist, and genre.
 
 ## Usage
 
